@@ -19,7 +19,7 @@ or add it from the Openshift web console:
 2. Click on **Tomcat 7 (JBoss EWS 2.0)** under Java section
 3. give your application a name (e.g. cas) and point the source code URL to **https://github.com/adrianchia/openshift-cas-quickstart.git**
 4. Click **Create Application** and wait for the application creation to finish.
-5. visit your CAS application at **https://cas-{yourdomain}-rhcloud.com**
+5. visit your CAS application at **https://cas-{yourdomain}.rhcloud.com**
 
 The default username/password for CAS 4.0 is casuser/Mellon. see [this link](https://github.com/Jasig/cas/blob/master/cas-server-webapp/src/main/webapp/WEB-INF/deployerConfigContext.xml#L107) for more information
 
