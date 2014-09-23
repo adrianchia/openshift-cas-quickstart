@@ -27,6 +27,7 @@ What's Next
 -----------
 * Customize your own authentication mechanism (e.g. RDBMS, OAuth, etc)
 * Customize your own UI
+* Create one or more client side apps that uses CAS for SSO, a demo is available at https://github.com/adrianchia/java-jasig-cas-client-demo.git 
 
 License
 -------
