@@ -4,7 +4,7 @@
 	<groupId>org.adrianchia</groupId>
 	<artifactId>cas</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<name>cas</name>
 	<repositories>
 		<repository>
@@ -59,7 +59,7 @@
 		<dependency>
 			<groupId>org.jasig.cas</groupId>
 			<artifactId>cas-server-webapp</artifactId>
-			<version>4.0.0</version>
+			<version>4.0.1</version>
 			<type>war</type>
 			<scope>runtime</scope>
 		</dependency>
